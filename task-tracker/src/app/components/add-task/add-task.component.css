@@ -1,0 +1,6 @@
+.add-form {
+    margin-bottom: 40px;
+  }
+  input.ng-touched.ng-invalid{
+    border: 1px solid red;
+}
